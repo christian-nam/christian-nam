@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Christian Nam 🙋‍♂️
+
+- 🎓 I'm a recent college graduate looking for full-time web development opportunities
+- 🚀 I've been using front-end frameworks like React for over 4 years
+- 🌱 I’m learning about back-end processes and AWS at the moment
 
 <!--
 **christian-nam/christian-nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
